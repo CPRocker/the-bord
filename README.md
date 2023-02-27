@@ -50,3 +50,21 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Lint and fix with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint:fix
+```
+
+### Format with [Prettier](https://prettier.io/)
+
+```sh
+npm run format
+```
+
+### Lint and fix with [ESLint](https://prettier.io/)
+
+```sh
+npm run format:fix
+```
